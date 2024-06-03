@@ -1,0 +1,10 @@
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\bin\Debug\Proje4NümerikAnaliz.exe.config
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\bin\Debug\Proje4NümerikAnaliz.exe
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\bin\Debug\Proje4NümerikAnaliz.pdb
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.csproj.AssemblyReference.cache
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.Form1.resources
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.Properties.Resources.resources
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.csproj.GenerateResource.cache
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.csproj.CoreCompileInputs.cache
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.exe
+C:\Users\adems\source\repos\Proje4NümerikAnaliz\Proje4NümerikAnaliz\obj\Debug\Proje4NümerikAnaliz.pdb
